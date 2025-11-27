@@ -1,4 +1,4 @@
-from functions import*
+from functions import *
 # Maint program loop
 # displays the menu and handles the users choices by intaking the users input and matching it to the code above
 def main():
